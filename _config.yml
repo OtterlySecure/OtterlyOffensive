@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -7,7 +7,7 @@ permalink:        pretty
 
 
 # Setup
-title:            Ottely Offensive
+title:            Otterly Offensive
 tagline:          'When Otters Rule the World'
 description:      'The following code will be offensive.'
 url:              https://otterlyoffesnive.com
